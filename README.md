@@ -18,7 +18,7 @@
 ## 🎓 Education
 
 - **M.S. in Data Science** 
-- **B.Tech in Information Technology** 
+- **B.E in Information Technology** 
 ---
 
 ## 🚀 Tech Stack
